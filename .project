@@ -20,4 +20,11 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>Wk8_ERD_Projects.drawio</name>
+			<type>1</type>
+			<location>C:/Users/Fahima Begum/OneDrive - University of Birmingham/Documents/1. Java/Assignments/My SQL Assignements/Wk8_ERD_Projects.drawio</location>
+		</link>
+	</linkedResources>
 </projectDescription>
